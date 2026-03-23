@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello! I'm Davi Bacalhau!
 
-<!--
-**littlesekii/littlesekii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+[![Davi Bacalhau's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlesekii&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/bacalhzu?tab=repositories)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlesekii&layout=compact&theme=tokyonight)](https://github.com/bacalhzu?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/davibacalhau" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contato.davibacalhau@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</div>
