@@ -11,8 +11,8 @@
 
 ## Projects
 
-### <a href="https://sh.linky.cat"> - URL Shortener</a>
-### <a href="https://pomodoro.linky.cat"> - Pomodoro</a>
+### <a target="_blank" href="https://sh.linky.cat"> - URL Shortener</a>
+### <a target="_blank" href="https://pomodoro.linky.cat"> - Pomodoro</a>
 
 ## Social
 <div style="display: inline_block">
