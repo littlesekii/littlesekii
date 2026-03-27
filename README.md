@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlesekii&layout=compact&theme=tokyonight)](https://github.com/bacalhzu?tab=repositories) 
 
-## Projects
+## Live projects
 
 <h3><a target="_blank" href="https://sh.linky.cat"> - URL Shortener</a></h3>
 <h3><a target="_blank" href="https://pomodoro.linky.cat"> - Pomodoro</a></h3>
